@@ -11,4 +11,5 @@ dependencies = [
     "yfinance>=0.2.55",
     "plotly==5.24.1",
     "scipy>=1.15.3",
+    "openpyxl>=3.1.5",
 ]
