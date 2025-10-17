@@ -6,10 +6,6 @@ import plotly.graph_objects as go
 from datetime import datetime, timedelta
 import warnings
 from scipy import stats
-from sklearn.linear_model import LinearRegression
-from sklearn.preprocessing import StandardScaler
-import seaborn as sns
-import matplotlib.pyplot as plt
 import io
 
 warnings.filterwarnings('ignore')
