@@ -2,9 +2,7 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 import numpy as np
-import plotly.express as px
 import plotly.graph_objects as go
-from plotly.subplots import make_subplots
 from datetime import datetime, timedelta
 import warnings
 from scipy import stats
