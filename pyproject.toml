@@ -10,4 +10,5 @@ dependencies = [
     "streamlit-nightly>=1.44.2.dev20250415",
     "yfinance>=0.2.55",
     "plotly==5.24.1",
+    "scipy>=1.15.3",
 ]
